@@ -1,4 +1,4 @@
-Window Application that allows you to interact with some kind of a 'workes database'. 
+Window Application that allows you to interact with some kind of a 'workers database'. 
 The table contains 4 columns: worker's id, worker's name, working position and the year when the worker started working.
 
 Application inludes such features as:
